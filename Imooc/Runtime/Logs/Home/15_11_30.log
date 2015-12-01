@@ -1,0 +1,749 @@
+[ 2015-11-30T10:12:22+08:00 ] 114.80.124.158 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000077s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000112s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000121s ]
+
+[ 2015-11-30T10:13:59+08:00 ] 114.80.124.158 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2015-11-30T10:20:52+08:00 ] 114.80.124.158 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: nonce /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 18 行.
+ERR: Think\Controller:reponseMsg方法不存在！
+
+[ 2015-11-30T10:21:50+08:00 ] 114.80.124.158 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Undefined index: nonce /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000076s ]
+
+[ 2015-11-30T10:23:20+08:00 ] 101.226.62.84 /weixin/imooc.php?signature=2c2b75f1295bf2124aa4dca4a9beeb60ee17c668&echostr=5858804528737941495&timestamp=1448850198&nonce=736784755
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000081s ]
+
+[ 2015-11-30T10:23:23+08:00 ] 101.226.62.77 /weixin/imooc.php?signature=71d170a0174c7da94fd46c7c75564cc3ca6e0f8c&echostr=3142178366159582139&timestamp=1448850203&nonce=46553549
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000078s ]
+
+[ 2015-11-30T10:23:29+08:00 ] 140.207.54.78 /weixin/imooc.php?signature=06b51b3750b6262b9ce4db0d50d535f232d88312&echostr=7264760166094713775&timestamp=1448850209&nonce=718396776
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000073s ]
+
+[ 2015-11-30T10:23:38+08:00 ] 101.226.62.84 /weixin/imooc.php?signature=65ce330669861a5b9232e9816e6a7f58c91d3f06&echostr=7440430998717464490&timestamp=1448850218&nonce=530055104
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000079s ]
+
+[ 2015-11-30T10:23:50+08:00 ] 101.226.62.15 /weixin/imooc.php?signature=28f962d6c100050d4f73210f61a2ccca0a3f6993&echostr=2635183560314303287&timestamp=1448850230&nonce=1633967503
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+
+[ 2015-11-30T10:23:58+08:00 ] 114.80.124.158 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: nonce /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000071s ]
+
+[ 2015-11-30T10:24:00+08:00 ] 114.80.124.158 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Undefined index: nonce /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000066s ]
+
+[ 2015-11-30T10:24:01+08:00 ] 114.80.124.158 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: nonce /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000072s ]
+
+[ 2015-11-30T10:24:02+08:00 ] 114.80.124.158 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: nonce /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2015-11-30T10:28:05+08:00 ] 114.80.124.158 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+
+[ 2015-11-30T10:28:21+08:00 ] 114.80.124.158 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000081s ]
+
+[ 2015-11-30T10:28:39+08:00 ] 101.226.65.104 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+
+[ 2015-11-30T10:29:37+08:00 ] 114.80.124.158 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: nonce /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2015-11-30T10:29:38+08:00 ] 114.80.124.158 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: nonce /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000065s ]
+
+[ 2015-11-30T10:34:37+08:00 ] 101.226.66.191 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: nonce /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000094s ]
+
+[ 2015-11-30T16:41:27+08:00 ] 114.80.124.158 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+
+[ 2015-11-30T16:42:46+08:00 ] 114.80.124.158 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined index: nonce /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000096s ]
+
+[ 2015-11-30T16:43:06+08:00 ] 114.80.124.158 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined index: nonce /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000095s ]
+
+[ 2015-11-30T16:43:06+08:00 ] 114.80.124.158 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: nonce /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000064s ]
+
+[ 2015-11-30T16:43:36+08:00 ] 140.207.54.76 /weixin/imooc.php?signature=f56af1bdb6ac6a09181a69a31a782aedfef067a5&timestamp=1448873016&nonce=1178679719&encrypt_type=aes&msg_signature=4c773c7a8ad6bbd9faa319a67151780c67b706ac
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000092s ]
+
+[ 2015-11-30T16:43:48+08:00 ] 140.207.54.76 /weixin/imooc.php?signature=f5fe810aa3f25d0262189719b820eb1b8253300c&timestamp=1448873028&nonce=417522440&encrypt_type=aes&msg_signature=46ca6b3e0c234b66e341e7db0ec19ff8a444d1ce
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000081s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000080s ]
+
+[ 2015-11-30T16:45:01+08:00 ] 140.207.54.80 /weixin/imooc.php?signature=bbd77b1e8f0f09c1b7f83a311e092178d2c8173e&timestamp=1448873101&nonce=1199147088&encrypt_type=aes&msg_signature=77cd74fe7067a6a8a8089486235f200e89fc32e9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2015-11-30T16:45:48+08:00 ] 140.207.54.78 /weixin/imooc.php?signature=c340735fd166281be318f1299643732f2134d361&timestamp=1448873148&nonce=2130040966&encrypt_type=aes&msg_signature=7257eff7182b2aeb0c7d9496a42c39f7514abfc6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000084s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000102s ]
+
+[ 2015-11-30T16:46:07+08:00 ] 140.207.54.78 /weixin/imooc.php?signature=b9eb2b3badd5a197bafe13d8ab9eb01977aaaf45&timestamp=1448873167&nonce=314212729&encrypt_type=aes&msg_signature=dedf74c587d7293097ca624b734b3348b9c4ad9d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000082s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000079s ]
+
+[ 2015-11-30T17:34:58+08:00 ] 140.207.54.76 /weixin/imooc.php?signature=79a4deccf68c85ea35abef8e06f7cd0f2d75eaa4&timestamp=1448876098&nonce=1506876008&encrypt_type=aes&msg_signature=e2f5ad8c722fa643313bfbded7cc55f2677020ac
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000085s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000078s ]
+
+[ 2015-11-30T18:54:27+08:00 ] 114.80.124.158 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000084s ]
+NOTIC: [8] Undefined index: nonce /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000078s ]
+
+[ 2015-11-30T18:54:28+08:00 ] 114.80.124.158 /weixin/imooc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: nonce /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: timestamp /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: signature /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000065s ]
+
+[ 2015-11-30T19:39:57+08:00 ] 140.207.54.80 /weixin/imooc.php?signature=0921124734d67bad160a66b9aded55cec373e28b&timestamp=1448883597&nonce=1766031898&encrypt_type=aes&msg_signature=7f380c5191b2b29e4386ab80f3d4a808b0aab3d3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+
+[ 2015-11-30T19:40:00+08:00 ] 140.207.54.77 /weixin/imooc.php?signature=337a9a9340cf6ba9e07301b247abb6ce21a389dd&timestamp=1448883600&nonce=906874341&encrypt_type=aes&msg_signature=de3170f3bb61018f854e9f5cf7530fb0ab57ed70
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000081s ]
+
+[ 2015-11-30T19:40:01+08:00 ] 140.207.54.76 /weixin/imooc.php?signature=8758e32af083c72de20e7c1efb06a41612195480&timestamp=1448883601&nonce=844258050&encrypt_type=aes&msg_signature=71fba02f8e3622ba8f1f6bd270140404d4ecb28f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+
+[ 2015-11-30T19:40:02+08:00 ] 140.207.54.77 /weixin/imooc.php?signature=06d663eb1cac517332700aeae9e40adecd79a45e&timestamp=1448883602&nonce=987030351&encrypt_type=aes&msg_signature=89aa58aa4b367a887390fe5a46349ce2b02a4f62
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+
+[ 2015-11-30T19:40:04+08:00 ] 140.207.54.77 /weixin/imooc.php?signature=586b25f12a60ee671b0bc9cab895be072a26e0aa&timestamp=1448883604&nonce=905402916&encrypt_type=aes&msg_signature=488fe607e5ac62554c06bdcf6e0a89ff93c15f50
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000101s ]
+
+[ 2015-11-30T19:41:20+08:00 ] 140.207.54.76 /weixin/imooc.php?signature=fe1f0a1e37af3e854cc729990385924e6cb0850d&timestamp=1448883680&nonce=1721931824&encrypt_type=aes&msg_signature=79d5ce26954548bb0a849945a266be4d6800618a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+
+[ 2015-11-30T19:41:22+08:00 ] 140.207.54.76 /weixin/imooc.php?signature=738dd61aacea0579f20796e2f2a3a4670e58ff77&timestamp=1448883682&nonce=244421769&encrypt_type=aes&msg_signature=078aec5c2eb27e4d8de9a8abde805167d1e02b77
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+
+[ 2015-11-30T19:41:24+08:00 ] 140.207.54.77 /weixin/imooc.php?signature=f32490dbbf2c468f0a8b1137636b1ed86368f345&timestamp=1448883684&nonce=1140209505&encrypt_type=aes&msg_signature=c5553980db579dbae502be18e315784724708990
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+
+[ 2015-11-30T19:41:31+08:00 ] 140.207.54.76 /weixin/imooc.php?signature=53a17cefb77545e0896c5b57c9a7fb05a933420b&timestamp=1448883691&nonce=2038732901&encrypt_type=aes&msg_signature=5802de4352c98461d6fbbe057df138ee9b4274e0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000128s ]
+
+[ 2015-11-30T19:44:10+08:00 ] 140.207.54.80 /weixin/imooc.php?signature=80fc585ddbc538ec44bf8cd8783cba8d0a5a8745&timestamp=1448883850&nonce=1518520223&encrypt_type=aes&msg_signature=a1740c502dc0fc8915d57e031e5af6871dc4341c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+
+[ 2015-11-30T19:44:12+08:00 ] 140.207.54.76 /weixin/imooc.php?signature=020e87e102cb3725c904c6f33a3a7ffe56275e73&timestamp=1448883852&nonce=1778922731&encrypt_type=aes&msg_signature=321f0312de9b97d3b8e3f63f551ea3df1c1e752f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+
+[ 2015-11-30T19:44:16+08:00 ] 140.207.54.78 /weixin/imooc.php?signature=b1db686a11415d9c269568fa8f926656e37b2987&timestamp=1448883856&nonce=1178416717&encrypt_type=aes&msg_signature=842d4b40face356c144dfe4825447c0808c596a8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+
+[ 2015-11-30T19:44:39+08:00 ] 140.207.54.79 /weixin/imooc.php?signature=f39cb3c8cdd1ad96cb7aa82747dc4d6d260720af&timestamp=1448883879&nonce=990580682&encrypt_type=aes&msg_signature=770177015fbbbe2364ae5ff05c68a84f481fe842
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+
+[ 2015-11-30T19:44:42+08:00 ] 140.207.54.76 /weixin/imooc.php?signature=62bfe3eb5bdedb4f9f54e1ec8f2f6abc9d830b1e&timestamp=1448883882&nonce=1028369067&encrypt_type=aes&msg_signature=dad90f393411c95d37f3baf98e83a98cd4326658
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000105s ]
+
+[ 2015-11-30T19:49:39+08:00 ] 140.207.54.79 /weixin/imooc.php?signature=2354ebff3dc548fc116465c69aed3d3489cbfc8f&timestamp=1448884179&nonce=1034675215&encrypt_type=aes&msg_signature=f379202d35598b612d200541f413c615b552ccf6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000114s ]
+
+[ 2015-11-30T19:49:42+08:00 ] 140.207.54.77 /weixin/imooc.php?signature=97177c600a8496e48a1470eb6694ecabd2568543&timestamp=1448884182&nonce=1623455462&encrypt_type=aes&msg_signature=3b1a602fe37a19f5088827773004dab212185e68
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+
+[ 2015-11-30T19:49:44+08:00 ] 140.207.54.76 /weixin/imooc.php?signature=77167f608a7d3dd6ac951ee456cf2161ec615cb8&timestamp=1448884184&nonce=210362994&encrypt_type=aes&msg_signature=c29e58a9fd42b3561eb338b79276e618ff7a65c7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+
+[ 2015-11-30T19:57:31+08:00 ] 140.207.54.76 /weixin/imooc.php?signature=12cdf5d122e265671a8c35a0d9a67f0f49564dc3&timestamp=1448884651&nonce=596461178&encrypt_type=aes&msg_signature=7d43a1212dedc370c08f57cd8f5c13fae110ed64
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000094s ]
+
+[ 2015-11-30T19:57:33+08:00 ] 140.207.54.76 /weixin/imooc.php?signature=bc9a4a76397d8044892727f5081bbb66ced4b386&timestamp=1448884653&nonce=1171991782&encrypt_type=aes&msg_signature=80b27903acf866c0bf3197352158bdfade04b33e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2015-11-30T19:57:37+08:00 ] 140.207.54.79 /weixin/imooc.php?signature=47c4fdf4349e3543f112d8383fa22cfb5240e61e&timestamp=1448884656&nonce=1092213398&encrypt_type=aes&msg_signature=f41a922002318918e7408eafc3146ff6939ed260
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined variable: content /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 225 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2015-11-30T19:57:40+08:00 ] 140.207.54.76 /weixin/imooc.php?signature=e405a69019a44e7f279b235a6e95ff7c69b804e3&timestamp=1448884660&nonce=1862697012&encrypt_type=aes&msg_signature=ba3193555eb8f6ad7b61e6a6329635c706494ab7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000079s ]
+
+[ 2015-11-30T19:59:50+08:00 ] 140.207.54.76 /weixin/imooc.php?signature=55c6cf50e44fbbb9498962178d55579e7e2d015c&timestamp=1448884790&nonce=2093813970&encrypt_type=aes&msg_signature=36b26d12a6f9c98510f223f46f762538b4c8b3f9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000081s ]
+
+[ 2015-11-30T19:59:53+08:00 ] 140.207.54.77 /weixin/imooc.php?signature=2e53eddf0dcaf5b06f66fef0dd6e48e162402d85&timestamp=1448884793&nonce=559901785&encrypt_type=aes&msg_signature=c7a2ed94a7974a7a5c40c266a5a4ce4b1b82a13a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000080s ]
+
+[ 2015-11-30T20:02:53+08:00 ] 140.207.54.76 /weixin/imooc.php?signature=44f71663740757065bff291be342c281bf4aff83&timestamp=1448884973&nonce=1738536192&encrypt_type=aes&msg_signature=25abed563610387059331ab89f4481d943299c40
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined variable: content /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 232 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000049s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2015-11-30T20:02:55+08:00 ] 140.207.54.77 /weixin/imooc.php?signature=524af7b9f695748053e1a1a9e49ad051ef743181&timestamp=1448884975&nonce=488416100&encrypt_type=aes&msg_signature=1ab06f83a79c53cda7fa037b67b86aa0782233c1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000076s ]
+
+[ 2015-11-30T20:02:56+08:00 ] 140.207.54.76 /weixin/imooc.php?signature=41ed0011d0289a00653d2cb2885dd803cd1dd399&timestamp=1448884976&nonce=1764815451&encrypt_type=aes&msg_signature=372d1d9999f3255abb368bd09d79e7c7299d77b1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000080s ]
+
+[ 2015-11-30T20:02:57+08:00 ] 140.207.54.77 /weixin/imooc.php?signature=21de18164b1a9401b4cbd6b1fb33b6adbd2926d7&timestamp=1448884977&nonce=140615370&encrypt_type=aes&msg_signature=0777f9cd21a82e77599a0c046e4b5049d86a6a6b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2015-11-30T20:02:58+08:00 ] 140.207.54.76 /weixin/imooc.php?signature=8cac6b4b972272878c36d6f32d90220b58c3f91a&timestamp=1448884978&nonce=312907113&encrypt_type=aes&msg_signature=c92870b269c4459d09e6b6a9732be52f2c385f52
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000072s ]
+
+[ 2015-11-30T20:03:28+08:00 ] 140.207.54.76 /weixin/imooc.php?signature=8fe9c7710451b0b886b3d367488fd75c11d35e42&timestamp=1448885008&nonce=1354565968&encrypt_type=aes&msg_signature=345c48bbe77b49e8eeaa1ede91549d4bbc836213
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000079s ]
+
+[ 2015-11-30T20:03:30+08:00 ] 140.207.54.79 /weixin/imooc.php?signature=1cd75a277efd5fa951cf1c506fc4bf9261523fc3&timestamp=1448885010&nonce=629533839&encrypt_type=aes&msg_signature=21ddef71aacd98635bd7f251e39a2ee77ac634f2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2015-11-30T20:06:54+08:00 ] 140.207.54.78 /weixin/imooc.php?signature=13dd9ef64c99a6bbc384e8798c44bd90b0543ea0&timestamp=1448885214&nonce=1528532826&encrypt_type=aes&msg_signature=b818c660b4f5def92660dca1bfb064d8a1ab1e46
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000080s ]
+
+[ 2015-11-30T20:29:14+08:00 ] 140.207.54.80 /weixin/imooc.php?signature=97e1d941981df7050dffa7bfec279bc2b64b6400&timestamp=1448886554&nonce=688503506&encrypt_type=aes&msg_signature=03f3f963df21c5a8d051c640ac72270562ac4dbf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined variable: content /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 232 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000076s ]
+
+[ 2015-11-30T20:29:16+08:00 ] 140.207.54.78 /weixin/imooc.php?signature=23d66022b2d3ceb4c11516f964d21f32fc56cf9c&timestamp=1448886556&nonce=1854008840&encrypt_type=aes&msg_signature=7c49a4c57e3a3814425ff2920fbef427aa482ba1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined variable: content /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 232 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000068s ]
+
+[ 2015-11-30T20:29:19+08:00 ] 140.207.54.79 /weixin/imooc.php?signature=d5a2885c8727a839ca46ebca2af457158ee98673&timestamp=1448886559&nonce=1779028541&encrypt_type=aes&msg_signature=e37f4d727566134b701718a6128f7e376ae79359
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined index: echostr /app/www/yawei/weixin/weixin/Imooc/Home/Controller/IndexController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000077s ]
+
